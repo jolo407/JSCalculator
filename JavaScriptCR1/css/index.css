@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    text-align: center;
+    background-image: url(../img/Calculator\ a\ background590.jpg);
+    height: 50vh;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    color: blue;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    color:blue;
+    font-weight: 300;
+}
+
+.instructions{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.instructions h2{
+    padding-top: 18px;
+}
+
+.lists{
+    text-align: center;
+}
+
+img{
+    display: block;
+    float: right;
+    height: 200px;
+    padding-right: 20px;
+    margin-right: 10px;
+}
+
+ol li{
+    text-align: center;
+    list-style-position: inside;
+
+}
+
+ul li{
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+.container-color{
+    background-color: red;
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 53px;
+    margin-left: -235px;
+    padding-left: 220px;
+    height: 9vh;
+}
+
+
+
+
